@@ -6,7 +6,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/xui-assistant/master/installer.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/0fariid0/xui-assistant/master/installer.sh)
 ```
 **Comprehensive User Management:**
 
@@ -39,10 +39,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/xui-assistant/master/in
     <img width="100%" src="https://github.com/user-attachments/assets/cc781ca6-5f3c-45f0-b297-0881a2eadfc7" alt="Image">
 </p>
 
-## 🙏 Support with Crypto 
-**We don't need financial support, only Star (⭐) is enough, thank you.**
-- USDT (TRC20): `TVUqVMoCEe5DVUoxmPg8MwmgcHvZLqLjr4`
 
-## 📧 Join Telegram Channel
-
-TG : https://t.me/+EpErnDsDPhw3ZThk
