@@ -31,12 +31,3 @@ bash <(curl -Ls https://raw.githubusercontent.com/0fariid0/xui-assistant/master/
 
 
 
-## Languages
-- English
-
-## 🪚 Preview
-<p align="left">
-    <img width="100%" src="https://github.com/user-attachments/assets/cc781ca6-5f3c-45f0-b297-0881a2eadfc7" alt="Image">
-</p>
-
-
