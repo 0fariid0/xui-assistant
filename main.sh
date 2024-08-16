@@ -52,7 +52,7 @@ loader(){
             echo "Timezone Set."
         ;;
         6)
-            bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/WordPress-Installer/master/main.sh)
+            bash <(curl -Ls https://raw.githubusercontent.com/0fariid0/WordPress-Installer/master/main.sh)
         ;;
         7)
             block_speedtest_sites
@@ -152,7 +152,7 @@ transfer_db(){
 
 user_gift(){
     
-    wget https://raw.githubusercontent.com/dev-ir/xui-assistant/master/core/day_size.py
+    wget https://raw.githubusercontent.com/0fariid0/xui-assistant/master/core/day_size.py
     python3 day_size.py
     rm day_size.py
 }
@@ -171,12 +171,12 @@ check_xui_exist() {
 }
 
 block_speedtest_sites(){
-    wget bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/speedtest-ban/master/main.sh)
+    wget bash <(curl -Ls https://raw.githubusercontent.com/0fariid0/speedtest-ban/master/main.sh)
 }
 
 function xray_restart(){
     
-    wget https://raw.githubusercontent.com/dev-ir/xui-assistant/master/core/setup_cron.py
+    wget https://raw.githubusercontent.com/0fariid0/xui-assistant/master/core/setup_cron.py
     python3 setup_cron.py
     rm setup_cron.py
     
